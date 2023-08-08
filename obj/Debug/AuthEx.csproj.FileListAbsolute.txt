@@ -1,0 +1,36 @@
+E:\DDOOCP_103n105\AuthEx\bin\Debug\Database1.mdf
+E:\DDOOCP_103n105\AuthEx\bin\Debug\Database1_log.ldf
+E:\DDOOCP_103n105\AuthEx\bin\Debug\AuthEx.exe.config
+E:\DDOOCP_103n105\AuthEx\bin\Debug\AuthEx.exe
+E:\DDOOCP_103n105\AuthEx\bin\Debug\AuthEx.pdb
+E:\DDOOCP_103n105\AuthEx\obj\Debug\AuthEx.csproj.AssemblyReference.cache
+E:\DDOOCP_103n105\AuthEx\obj\Debug\AuthEx.csproj.SuggestedBindingRedirects.cache
+E:\DDOOCP_103n105\AuthEx\obj\Debug\AuthEx.Properties.Resources.resources
+E:\DDOOCP_103n105\AuthEx\obj\Debug\AuthEx.csproj.GenerateResource.cache
+E:\DDOOCP_103n105\AuthEx\obj\Debug\AuthEx.csproj.CoreCompileInputs.cache
+E:\DDOOCP_103n105\AuthEx\obj\Debug\AuthEx.exe
+E:\DDOOCP_103n105\AuthEx\obj\Debug\AuthEx.pdb
+E:\DDOOCP_103n105\AuthEx\obj\Debug\AuthEx.frmRegister.resources
+E:\DDOOCP_103n105\AuthEx\obj\Debug\AuthEx.Form1.resources
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\obj\Debug\AuthEx.csproj.AssemblyReference.cache
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\obj\Debug\AuthEx.csproj.SuggestedBindingRedirects.cache
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\obj\Debug\AuthEx.Form1.resources
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\obj\Debug\AuthEx.frmRegister.resources
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\obj\Debug\AuthEx.Properties.Resources.resources
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\obj\Debug\AuthEx.csproj.GenerateResource.cache
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\obj\Debug\AuthEx.csproj.CoreCompileInputs.cache
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\obj\Debug\AuthEx.exe
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\obj\Debug\AuthEx.pdb
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\bin\Debug\Database1.mdf
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\bin\Debug\Database1_log.ldf
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\bin\Debug\AuthEx.exe.config
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\bin\Debug\AuthEx.exe
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\bin\Debug\AuthEx.pdb
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\bin\Debug\EntityFramework.dll
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\bin\Debug\EntityFramework.SqlServer.dll
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\bin\Debug\EntityFramework.xml
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\bin\Debug\EntityFramework.SqlServer.xml
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\obj\Debug\AuthEx.csproj.CopyComplete
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\obj\Debug\AuthEx.frmLogin.resources
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\obj\Debug\AuthEx.frmMainMenu.resources
+E:\Anik-L5DC 96\Anik ADI L5DC-96\New folder\obj\Debug\AuthEx.frmCoustomer.resources

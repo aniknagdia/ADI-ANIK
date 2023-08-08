@@ -1,0 +1,37 @@
+﻿CREATE TABLE tblUser
+(
+	[Id] INT IDENTITY (1,1) NOT NULL PRIMARY KEY , 
+    [UserName] VARCHAR(50) NULL, 
+    [Password] VARCHAR(50) NULL, 
+    [UserType] VARCHAR(50) NULL
+);
+GO
+
+INSERT INTO tblUser VALUES('Admin','123','Admin')
+INSERT INTO tblUser VALUES('IFFat','456','Customer')
+INSERT INTO tblUser VALUES('Faisal','420','Customer')
+
+SELECT * FROM tblUser
+SELECT Id,UserName,UserType FROM tblUser
+SELECT * FROM tblUser WHERE Id=2
+SELECT * FROM tblUser WHERE UserName='Admin' AND Password='123'
+
+SELECT * FROM tblUser
+
+INSERT INTO tblUser VALUES('SuVO','999','Customer')
+UPDATE tblUser SET UserName='Sudha' WHERE id=4
+
+DELETE FROM tblUser WHERE id=4
+
+--New Table
+CREATE TABLE [tblCoustomer]
+(
+[cId]   INT IDENTITY (1, 1) NOT NULL PRIMARY KEY,
+[Name]  VARCHAR (50) NOT NULL,
+[email] VARCHAR (50) NOT NULL,
+[phone] VARCHAR (13) NOT NULL,
+[uId]   INT NOT NULL,
+FOREIGN KEY ([uId]) REFERENCES [tblUser]([Id])
+ON DELETE CASCADE
+)
+GO
